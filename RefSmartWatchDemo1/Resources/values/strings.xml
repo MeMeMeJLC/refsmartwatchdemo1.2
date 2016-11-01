@@ -4,5 +4,6 @@
 	<string name="app_name">RefSmartWatchDemo1</string>
 	<string name="hello_round">I\'m Round. Tap Me!</string>
 	<string name="hello_rect">I\'m Rect. Tap Me!</string>
+  <string name="game">Game</string>
 
 </resources>
